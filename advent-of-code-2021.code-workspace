@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+
+  "settings": {
+    "editor.formatOnSave": true,
+
+    "createreactfoldercomponent.templateLanguage": "TypeScript",
+    "createreactfoldercomponent.typeScriptComponentTemplate": [
+      "export interface $COMPONENT_NAMEProps {",
+      "}",
+      "",
+      "export default function $COMPONENT_NAME(props: $COMPONENT_NAMEProps) {",
+      "}"
+    ]
+  }
+}

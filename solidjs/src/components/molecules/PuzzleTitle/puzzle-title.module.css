@@ -1,0 +1,29 @@
+.day {
+  line-height: 0.9;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+
+.dayText {
+  font-size: 25vmin;
+  font-weight: 100;
+}
+
+.dayNumber {
+  font-size: 50vmin;
+  font-weight: bold;
+}
+
+.title {
+  font-size: min(1.5rem, 3.5vmin);
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.title::before,
+.title::after {
+  content: '~~~';
+  margin: 1rem;
+}

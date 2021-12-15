@@ -1,0 +1,23 @@
+:root {
+  /** Colors */
+  --color-background: #0f0f23;
+  --color-text: #ccc;
+
+  /** Text */
+  --font-size--base: 16px;
+
+  --font-size--body-xl: 2rem;
+  --font-size--body-l: 1.5rem;
+  --font-size--body-m: 1rem;
+  --font-size--body-s: 0.8rem;
+
+  --font-size--heading-huge: 25vmin;
+  --font-size--heading-xl: 5rem;
+  --font-size--heading-l: 3rem;
+  --font-size--heading-m: 2rem;
+  --font-size--heading-s: 1.5rem;
+
+  /** Grid */
+  --grid--max-width: 45rem;
+  --grid--padding-hori: 2rem;
+}

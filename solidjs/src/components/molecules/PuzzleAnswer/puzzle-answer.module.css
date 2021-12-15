@@ -1,0 +1,11 @@
+.output {
+  font-size: var(--font-size--body-l);
+}
+
+.text {
+  font-weight: normal;
+}
+
+.value {
+  font-weight: bold;
+}

@@ -1,0 +1,5 @@
+.puzzleLayout {
+  margin: 0 auto;
+  max-width: var(--grid--max-width);
+  padding: 0 var(--grid--padding-hori);
+}

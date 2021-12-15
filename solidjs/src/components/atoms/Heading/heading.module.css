@@ -1,0 +1,26 @@
+.heading {
+  font-size: var(--heading--font-size);
+}
+
+.heading_huge {
+  --heading--font-size: var(--font-size--heading-huge);
+}
+
+.heading_xl {
+  --heading--font-size: var(--font-size--heading-xl);
+}
+
+.heading_l {
+  --heading--font-size: var(--font-size--heading-l);
+}
+
+.heading_m {
+  --heading--font-size: var(--font-size--heading-m);
+}
+
+.heading_s {
+  --heading--font-size: var(--font-size--heading-s);
+
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
